@@ -11,4 +11,4 @@ The Q-function uses the Bellman equation and takes state(s) and action(a) as inp
 
 **Environment used:** \
 Python: 3.8.10 \
-gym: 0.26.2 \
+gym: 0.26.2 
