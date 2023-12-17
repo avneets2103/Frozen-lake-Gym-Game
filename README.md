@@ -3,7 +3,7 @@
 
 **Q learning algo**: \
 **Q-Function**\
-The Q-function uses the Bellman equation and takes state(s) and action(a) as input. The equation simplifies the state values and state-action value calculation. 
+The Q-function uses the Bellman equation and takes state(s) and action(a) as input. The equation simplifies the state values and state-action value calculation. \
 ![image](https://github.com/avneets2103/Frozen-lake-Gym-Game/assets/93909103/9bd7a8e1-d37f-43ae-9772-29a2e791ce22)
 
 **Q-learning algorithm**\
